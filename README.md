@@ -24,3 +24,4 @@
 
 <h4>Education<h4/>
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" height="30"  style="vertical-align:top; margin:4px">
+[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharyash81)](https://github.com/anuraghazra/github-readme-stats)
