@@ -1,7 +1,7 @@
 ### Hi there , I'm Arya Shahsavar👋
 
-- 🔭 I’m currently working on web development and DevOps engineering
-- 🌱 I’m currently learning R programming and data science
+- 🔭 I’m currently working on machine learning and DevOps engineering
+- 🌱 I’m currently learning R programming , Advanced ML algorithms and data cleaning
 - 😄 Pronouns: sharyash
 ## 🧰 Languages and Tools:
 <h4> Data Science and Machine Learning <h4/>
