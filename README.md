@@ -29,12 +29,12 @@
  <br> </br>
 ## 📊 Stats:
 <div align="center">
- 
-[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
- 
+ [![sharyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=sharyash81&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for sharyash" width="700">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
+</div? 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/sharyash81/sharyash81/blob/output/github-contribution-grid-snake.gif)
- </div>
+
 
