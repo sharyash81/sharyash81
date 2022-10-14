@@ -4,46 +4,26 @@
 - 🌱 I’m currently learning R programming , Advanced ML algorithms and data cleaning
 - 😄 Pronouns: sharyash
 ## 🧰 Languages and Tools:
-<p align="center">
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Java" height="25" src="images/java.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="LaTeX" height="25" src="images/latex.svg"></code>
-</p>
+<div align="center">
+ <h4> Data Science and Machine Learning <h4/>
+ <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30" style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" height="30"  style="vertical-align:top; margin:4px">
 
-<p align="center">
-  <code><img title="Tensorflow" height="25" src="images/tensorflow.svg"></code>
-  <code><img title="PyTorch" height="25" src="images/pytorch.svg"></code>
-  <code><img title="Keras" height="25" src="images/keras.svg"></code>
-  <code><img title="scikit-learn" height="25" src="images/sklearn.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="OpenCV" height="25" src="images/opencv.svg"></code>
-  <code><img title="Google Colab" height="25" src="images/colab.svg"></code>
-</p>
+ <h4>Fundamental Programming Language<h4/>
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="30"  style="vertical-align:top; margin:4px">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30"  style="vertical-align:top; margin:4px">
 
-<p align="center">
-  <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="MUI" height="25" src="images/mui.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-</p>
+<h4>Web Development<h4/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP" height="30"  style="vertical-align:top; margin:4px"> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="30"  style="vertical-align:top; margin:4px">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"  style="vertical-align:top; margin:4px">
 
-<p align="center">
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Scrum" height="25" src="images/scrum.png"></code>
-  <code><img title="VSCode" height="25" src="images/vscode.svg"></code>
-  <code><img title="ANTLR" height="25" src="images/antlr.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-</p>
- 
+
+<h4>DevOps engineering<h4/>
+<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" alt="CentOs" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" alt="helm" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible" height="30"  style="vertical-align:top; margin:4px"> 
+
+<h4>IDE<h4/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Rstudio" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode" height="30"  style="vertical-align:top; margin:4px">
+
+<h4>Education<h4/>
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Rstudio" height="30"  style="vertical-align:top; margin:4px">
  
 
 [![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
