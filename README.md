@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on machine learning and DevOps engineering
 - 🌱 I’m currently learning R programming , Advanced ML algorithms and data cleaning
 - 😄 Pronouns: sharyash
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools
 <p align="center">
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30"  style="vertical-align:top; margin:4px">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30" style="vertical-align:top; margin:4px"> 
  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="30"  style="vertical-align:top; margin:4px">
@@ -39,7 +39,7 @@
  </p>
  
  
-## 📊 Stats:
+## 📊 Stats
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=react" width=434.5>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact&theme=react" width=314.5>
@@ -48,7 +48,7 @@
  </p>
 
 <br></br>
-### Watch my contribution graph get eaten by the snake 🐍:
+## Watch my contribution graph get eaten by the snake 🐍
 <img src="https://github.com/sharyash81/sharyash81/blob/output/github-contribution-grid-snake.gif">
 
 
