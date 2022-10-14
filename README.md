@@ -1,8 +1,11 @@
 ### Hi there , I'm Arya Shahsavar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
 - 🔭 I’m currently working on machine learning and DevOps engineering
 - 🌱 I’m currently learning R programming , Advanced ML algorithms and data cleaning
 - 😄 Pronouns: sharyash
+<p align="right">
+ <img src="./assets/coding.gif" width=400>
+</p>
+
 ## 🧰 Languages and Tools
 <p align="center">
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30"  style="vertical-align:top; margin:4px">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30" style="vertical-align:top; margin:4px"> 
