@@ -1,4 +1,4 @@
-### Hi there , I'm Arya Shahsavar👋
+### Hi there , I'm Arya Shahsavar👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 - 🔭 I’m currently working on machine learning and DevOps engineering
 - 🌱 I’m currently learning R programming , Advanced ML algorithms and data cleaning
