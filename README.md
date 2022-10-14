@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning R programming , Advanced ML algorithms and data cleaning
 - 😄 Pronouns: sharyash
 ## 🧰 Languages and Tools:
-<h4> Data Science and Machine Learning <h4/> 
+<div>
+<h4> Data Science and Machine Learning <h4/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30" style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" height="30"  style="vertical-align:top; margin:4px">
+</div>
 
 
 <h4>Fundamental Programming Language<h4/>
