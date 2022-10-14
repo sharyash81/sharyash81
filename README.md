@@ -4,14 +4,12 @@
 - 🌱 I’m currently learning R programming , Advanced ML algorithms and data cleaning
 - 😄 Pronouns: sharyash
 ## 🧰 Languages and Tools:
-<div align="center">
-<h4> Data Science and Machine Learning <h4/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30" style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" height="30"  style="vertical-align:top; margin:4px">
- </div>
-
-
-<h4>Fundamental Programming Language<h4/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="30"  style="vertical-align:top; margin:4px">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30"  style="vertical-align:top; margin:4px">
+ <div align="center">
+ <h4> Data Science and Machine Learning <h4/>
+ <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30" style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" height="30"  style="vertical-align:top; margin:4px">
+  
+ <h4>Fundamental Programming Language<h4/>
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" height="30"  style="vertical-align:top; margin:4px">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="30"  style="vertical-align:top; margin:4px">
  
 <h4>Web Development<h4/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP" height="30"  style="vertical-align:top; margin:4px"> 
@@ -26,6 +24,7 @@
 
 <h4>Education<h4/>
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Rstudio" height="30"  style="vertical-align:top; margin:4px">
+ </div>
  
  
 
