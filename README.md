@@ -24,15 +24,14 @@
 
 <h4>Education<h4/>
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Rstudio" height="30"  style="vertical-align:top; margin:4px">
- </div>
  
  
 
 [![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
  
 ![snake gif](https://github.com/sharyash81/sharyash81/blob/output/github-contribution-grid-snake.gif)
+ 
+ </div>
 
