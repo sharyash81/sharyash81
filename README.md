@@ -36,7 +36,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
-<div align="center">
 ![snake gif](https://github.com/sharyash81/sharyash81/blob/output/github-contribution-grid-snake.gif)
-</div>
 
