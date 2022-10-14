@@ -23,17 +23,18 @@
 
 <h4>IDE<h4/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Rstudio" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS" height="30"  style="vertical-align:top; margin:4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode" height="30"  style="vertical-align:top; margin:4px">
-
+ </div>
  
  
  <br> </br>
 ## 📊 Stats:
-
+<div align="center">
+ 
 [![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
  
+### Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/sharyash81/sharyash81/blob/output/github-contribution-grid-snake.gif)
- 
  </div>
 
