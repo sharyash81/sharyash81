@@ -51,4 +51,5 @@
  </p>
 
 <br></br>
+## Watch my contribution graph get eaten by the snake 🐍 <img src="https://github.com/sharyash81/sharyash81/blob/output/github-contribution-grid-snake.gif">
 
