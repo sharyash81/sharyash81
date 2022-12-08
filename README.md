@@ -44,10 +44,10 @@
  
 ## 📊 Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=react" width=434.5>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact&theme=react" width=314.5>
- <img src="https://activity-graph.herokuapp.com/graph?username=sharyash81&theme=react" width="396.5">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=sharyash81&theme=react" width="352.5">
+ <img src="https://github-readme-stats.vercel.app/api?username=sharyash81&count_private=true&show_icons=true&theme=react"> <!---434.5---!>
+ <!---<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharyash81&langs_count=8&layout=compact&theme=react" width=300.5><!---314.5---!>
+ <!--- <img src="https://activity-graph.herokuapp.com/graph?username=sharyash81&theme=react" width="396.5"> ---!>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=sharyash81&theme=react"><!---352.5---!>
  </p>
 
 <br></br>
