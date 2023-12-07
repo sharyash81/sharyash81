@@ -37,13 +37,6 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="30"  style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"  style="vertical-align:top; margin:4px">
 </p>
-<p align="center">
- <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab" height="30"  style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Rstudio" height="30"  style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm" height="30"  style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS" height="30"  style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode" height="30"  style="vertical-align:top; margin:4px">
- </p>
  
  
 ## 📊 Stats
